@@ -1,0 +1,2714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:ExamplesForXcode6.1"
+      name = "ExamplesForXcode6.1">
+      <Group
+         location = "group:AGLKit"
+         name = "AGLKit">
+         <FileRef
+            location = "group:AGLKAxisAllignedBoundingBox.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKCollision.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKCollision.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKContext.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKContext.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKFilters.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKFilters.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKFrustum.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKFrustum.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKPointParticleEffect.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKPointParticleEffect.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKSkyboxEffect.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKSkyboxEffect.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKTextureLoader.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKTextureLoader.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKTextureTransformBaseEffect.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKTextureTransformBaseEffect.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKVertexAttribArrayBuffer.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKVertexAttribArrayBuffer.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKView.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKView.m">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKViewController.h">
+         </FileRef>
+         <FileRef
+            location = "group:AGLKViewController.m">
+         </FileRef>
+         <Group
+            location = "group:Shaders"
+            name = "Shaders">
+            <FileRef
+               location = "group:AGLKPointParticleShader.fsh">
+            </FileRef>
+            <FileRef
+               location = "group:AGLKPointParticleShader.vsh">
+            </FileRef>
+            <FileRef
+               location = "group:AGLKSkyboxShader.fsh">
+            </FileRef>
+            <FileRef
+               location = "group:AGLKSkyboxShader.vsh">
+            </FileRef>
+            <FileRef
+               location = "group:AGLKTextureMatrix2PointLightShader.fsh">
+            </FileRef>
+            <FileRef
+               location = "group:AGLKTextureMatrix2PointLightShader.vsh">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch02_EXAMPLES"
+         name = "ch02_EXAMPLES">
+         <Group
+            location = "group:OpenGLES_Ch2_1"
+            name = "OpenGLES_Ch2_1">
+            <Group
+               location = "group:OpenGLES_Ch2_1"
+               name = "OpenGLES_Ch2_1">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_1-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_1AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_1AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_1ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_1ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch2_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch2_2"
+            name = "OpenGLES_Ch2_2">
+            <Group
+               location = "group:OpenGLES_Ch2_2"
+               name = "OpenGLES_Ch2_2">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_2-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_2-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_2AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_2AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_2ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_2ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch2_2.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch2_3"
+            name = "OpenGLES_Ch2_3">
+            <Group
+               location = "group:OpenGLES_Ch2_3"
+               name = "OpenGLES_Ch2_3">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_3-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_3-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_3AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_3AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_3ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch2_3ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch2_3.xcodeproj">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch03_EXAMPLES"
+         name = "ch03_EXAMPLES">
+         <Group
+            location = "group:OpenGLES_Ch3_1"
+            name = "OpenGLES_Ch3_1">
+            <Group
+               location = "group:OpenGLES_Ch3_1"
+               name = "OpenGLES_Ch3_1">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:leaves.gif">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_1-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_1AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_1AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_1ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_1ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch3_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch3_2"
+            name = "OpenGLES_Ch3_2">
+            <Group
+               location = "group:OpenGLES_Ch3_2"
+               name = "OpenGLES_Ch3_2">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:leaves.gif">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_2-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_2-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_2AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_2AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_2ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_2ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch3_2.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch3_3"
+            name = "OpenGLES_Ch3_3">
+            <Group
+               location = "group:OpenGLES_Ch3_3"
+               name = "OpenGLES_Ch3_3">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:grid.png">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_3-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_3-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_3AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_3AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_3ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_3ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch3_3.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch3_4"
+            name = "OpenGLES_Ch3_4">
+            <Group
+               location = "group:OpenGLES_Ch3_4"
+               name = "OpenGLES_Ch3_4">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_4-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_4-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_4AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_4AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_4ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_4ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch3_4.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch3_5"
+            name = "OpenGLES_Ch3_5">
+            <Group
+               location = "group:OpenGLES_Ch3_5"
+               name = "OpenGLES_Ch3_5">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_5-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_5-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_5AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_5AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_5ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_5ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch3_5.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch3_6"
+            name = "OpenGLES_Ch3_6">
+            <Group
+               location = "group:OpenGLES_Ch3_6"
+               name = "OpenGLES_Ch3_6">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:leaves.gif">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_6-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_6-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_6AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_6AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_6ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch3_6ViewController.m">
+               </FileRef>
+               <Group
+                  location = "group:Shaders"
+                  name = "Shaders">
+                  <FileRef
+                     location = "group:Shader.fsh">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Shader.vsh">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch3_6.xcodeproj">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch04_EXAMPLES"
+         name = "ch04_EXAMPLES">
+         <Group
+            location = "group:OpenGLES_Ch4_1"
+            name = "OpenGLES_Ch4_1">
+            <Group
+               location = "group:OpenGLES_Ch4_1"
+               name = "OpenGLES_Ch4_1">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_1-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_1AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_1AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_1ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_1ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch4_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch4_2"
+            name = "OpenGLES_Ch4_2">
+            <Group
+               location = "group:OpenGLES_Ch4_2"
+               name = "OpenGLES_Ch4_2">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:grid.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Lighting256x256.png">
+               </FileRef>
+               <FileRef
+                  location = "group:LightingDetail256x256.png">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_2-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_2-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_2AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_2AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_2ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch4_2ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch4_2.xcodeproj">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch05_EXAMPLES"
+         name = "ch05_EXAMPLES">
+         <Group
+            location = "group:OpenGLES_Ch5_1"
+            name = "OpenGLES_Ch5_1">
+            <Group
+               location = "group:OpenGLES_Ch5_1"
+               name = "OpenGLES_Ch5_1">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_1-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_1AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_1AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_1ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_1ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch5_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch5_2"
+            name = "OpenGLES_Ch5_2">
+            <Group
+               location = "group:OpenGLES_Ch5_2"
+               name = "OpenGLES_Ch5_2">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_2-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_2-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_2AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_2AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_2ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_2ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch5_2.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch5_3"
+            name = "OpenGLES_Ch5_3">
+            <Group
+               location = "group:OpenGLES_Ch5_3"
+               name = "OpenGLES_Ch5_3">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_3-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_3-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_3AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_3AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_3ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_3ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch5_3.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch5_4"
+            name = "OpenGLES_Ch5_4">
+            <Group
+               location = "group:OpenGLES_Ch5_4"
+               name = "OpenGLES_Ch5_4">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_4-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_4-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_4AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_4AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_4ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_4ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch5_4.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch5_5"
+            name = "OpenGLES_Ch5_5">
+            <Group
+               location = "group:OpenGLES_Ch5_5"
+               name = "OpenGLES_Ch5_5">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_5-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_5-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_5AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_5AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_5ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_5ViewController.m">
+               </FileRef>
+               <Group
+                  location = "group:Shaders"
+                  name = "Shaders">
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch5_5.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch5_6"
+            name = "OpenGLES_Ch5_6">
+            <Group
+               location = "group:OpenGLES_Ch5_6"
+               name = "OpenGLES_Ch5_6">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_6-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_6-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_6AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_6AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_6ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch5_6ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch5_6.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Resources"
+            name = "Resources">
+            <FileRef
+               location = "group:Earth512x256.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:lowPolyAxesAndModels2.blend">
+            </FileRef>
+            <FileRef
+               location = "group:lowPolyAxesAndModels2.h">
+            </FileRef>
+            <FileRef
+               location = "group:lowPolyAxesAndModels2.obj">
+            </FileRef>
+            <FileRef
+               location = "group:Moon256x128.png">
+            </FileRef>
+            <FileRef
+               location = "group:obj2opengl.pl">
+            </FileRef>
+            <FileRef
+               location = "group:obj2openglFlippedZ.pl">
+            </FileRef>
+            <FileRef
+               location = "group:ReadMe.txt">
+            </FileRef>
+            <FileRef
+               location = "group:sphere.blend">
+            </FileRef>
+            <FileRef
+               location = "group:sphere.h">
+            </FileRef>
+            <FileRef
+               location = "group:sphere.obj">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch06_EXAMPLES"
+         name = "ch06_EXAMPLES">
+         <Group
+            location = "group:CommonCode"
+            name = "CommonCode">
+            <FileRef
+               location = "group:canLight.h">
+            </FileRef>
+            <FileRef
+               location = "group:SceneAnimatedMesh.h">
+            </FileRef>
+            <FileRef
+               location = "group:SceneAnimatedMesh.m">
+            </FileRef>
+            <FileRef
+               location = "group:SceneMesh.h">
+            </FileRef>
+            <FileRef
+               location = "group:SceneMesh.m">
+            </FileRef>
+            <FileRef
+               location = "group:SceneModel.h">
+            </FileRef>
+            <FileRef
+               location = "group:SceneModel.m">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch6_1"
+            name = "OpenGLES_Ch6_1">
+            <Group
+               location = "group:OpenGLES_Ch6_1"
+               name = "OpenGLES_Ch6_1">
+               <FileRef
+                  location = "group:bumperCar.h">
+               </FileRef>
+               <FileRef
+                  location = "group:bumperRink.h">
+               </FileRef>
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_1-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_1AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_1AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_1ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_1ViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCar.h">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCar.m">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCarModel.h">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCarModel.m">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneRinkModel.h">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneRinkModel.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch6_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch6_2"
+            name = "OpenGLES_Ch6_2">
+            <Group
+               location = "group:OpenGLES_Ch6_2"
+               name = "OpenGLES_Ch6_2">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_2-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_2-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_2AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_2AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_2ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_2ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch6_2.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch6_3"
+            name = "OpenGLES_Ch6_3">
+            <Group
+               location = "group:OpenGLES_Ch6_3"
+               name = "OpenGLES_Ch6_3">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_3-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_3-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_3AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_3AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_3ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_3ViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:RadiusSelectionTool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCanLightModel.h">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCanLightModel.m">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneMesh.h">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneMesh.m">
+               </FileRef>
+               <Group
+                  location = "group:Shaders"
+                  name = "Shaders">
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch6_3.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch6_4"
+            name = "OpenGLES_Ch6_4">
+            <Group
+               location = "group:OpenGLES_Ch6_4"
+               name = "OpenGLES_Ch6_4">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_4-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_4-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_4AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_4AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_4ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_4ViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:RadiusSelectionTool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCanLightModel.h">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCanLightModel.m">
+               </FileRef>
+               <Group
+                  location = "group:Shaders"
+                  name = "Shaders">
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch6_4.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch6_5"
+            name = "OpenGLES_Ch6_5">
+            <Group
+               location = "group:OpenGLES_Ch6_5"
+               name = "OpenGLES_Ch6_5">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_5-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_5-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_5AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_5AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_5ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch6_5ViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:RabbitTextureAtlas.png">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCanLightModel.h">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCanLightModel.m">
+               </FileRef>
+               <Group
+                  location = "group:Shaders"
+                  name = "Shaders">
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch6_5.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Resources"
+            name = "Resources">
+            <FileRef
+               location = "group:bumperCar.blend">
+            </FileRef>
+            <FileRef
+               location = "group:bumperCar.dae">
+            </FileRef>
+            <FileRef
+               location = "group:bumperCar.h">
+            </FileRef>
+            <FileRef
+               location = "group:bumperCar.obj">
+            </FileRef>
+            <FileRef
+               location = "group:bumperCar.skp">
+            </FileRef>
+            <FileRef
+               location = "group:bumperRink.blend">
+            </FileRef>
+            <FileRef
+               location = "group:bumperRink.dae">
+            </FileRef>
+            <FileRef
+               location = "group:bumperRink.h">
+            </FileRef>
+            <FileRef
+               location = "group:bumperRink.obj">
+            </FileRef>
+            <FileRef
+               location = "group:bumperRink.skp">
+            </FileRef>
+            <FileRef
+               location = "group:canLight.h">
+            </FileRef>
+            <FileRef
+               location = "group:canLight.obj">
+            </FileRef>
+            <FileRef
+               location = "group:obj2opengl.pl">
+            </FileRef>
+            <FileRef
+               location = "group:ReadMe.txt">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch07_EXAMPLES"
+         name = "ch07_EXAMPLES">
+         <Group
+            location = "group:COLLADAViewer"
+            name = "COLLADAViewer">
+            <Group
+               location = "group:COLLADAViewer"
+               name = "COLLADAViewer">
+               <FileRef
+                  location = "group:COLLADAGeometryInfo.h">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADAGeometryInfo.m">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADAGeometryParser.h">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADAGeometryParser.m">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADANode.h">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADANode.m">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADAParser.h">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADAParser.m">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADARootNode.h">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADARootNode.m">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADAViewer-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:COLLADAViewer-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:CVDocument.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CVDocument.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CVMesh.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CVMesh.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CVModel.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CVModel.m">
+               </FileRef>
+               <FileRef
+                  location = "group:CVView.h">
+               </FileRef>
+               <FileRef
+                  location = "group:CVView.m">
+               </FileRef>
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:Credits.rtf">
+                  </FileRef>
+                  <FileRef
+                     location = "group:CVDocument.xib">
+                  </FileRef>
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainMenu.xib">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityFrustum.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityFrustum.m">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityMath.c">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityMath.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityMatrix.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityOpenGLCamera.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityOpenGLCamera.m">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityTextureLoader.h">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityTextureLoader.m">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityVector.c">
+               </FileRef>
+               <FileRef
+                  location = "group:UtilityVector.h">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:COLLADAViewer.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch7_1"
+            name = "OpenGLES_Ch7_1">
+            <Group
+               location = "group:OpenGLES_Ch7_1"
+               name = "OpenGLES_Ch7_1">
+               <FileRef
+                  location = "group:AGLKContext.h">
+               </FileRef>
+               <FileRef
+                  location = "group:AGLKContext.m">
+               </FileRef>
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_1-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_1AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_1AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_1ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_1ViewController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCar.h">
+               </FileRef>
+               <FileRef
+                  location = "group:SceneCar.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch7_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch7_2"
+            name = "OpenGLES_Ch7_2">
+            <Group
+               location = "group:OpenGLES_Ch7_2"
+               name = "OpenGLES_Ch7_2">
+               <FileRef
+                  location = "group:AGLKContext.h">
+               </FileRef>
+               <FileRef
+                  location = "group:AGLKContext.m">
+               </FileRef>
+               <FileRef
+                  location = "group:armature.modelplist">
+               </FileRef>
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_2-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_2-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_2AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_2AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_2ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_2ViewController.m">
+               </FileRef>
+               <Group
+                  location = "group:Shaders"
+                  name = "Shaders">
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch7_2.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch7_3"
+            name = "OpenGLES_Ch7_3">
+            <Group
+               location = "group:OpenGLES_Ch7_3"
+               name = "OpenGLES_Ch7_3">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_3-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_3-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_3AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_3AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_3ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch7_3ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch7_3.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Resources"
+            name = "Resources">
+            <FileRef
+               location = "group:armature.modelplist">
+            </FileRef>
+            <FileRef
+               location = "group:armatureSkin.modelplist">
+            </FileRef>
+            <FileRef
+               location = "group:bone0.dae">
+            </FileRef>
+            <FileRef
+               location = "group:bone0.skp">
+            </FileRef>
+            <FileRef
+               location = "group:bone1.dae">
+            </FileRef>
+            <FileRef
+               location = "group:bone1.skp">
+            </FileRef>
+            <FileRef
+               location = "group:bone2.dae">
+            </FileRef>
+            <FileRef
+               location = "group:bone2.skp">
+            </FileRef>
+            <FileRef
+               location = "group:bumper.modelplist">
+            </FileRef>
+            <Group
+               location = "group:bumperCar"
+               name = "bumperCar">
+               <FileRef
+                  location = "group:texture0.png">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:bumperCar.dae">
+            </FileRef>
+            <FileRef
+               location = "group:bumperCar.skp">
+            </FileRef>
+            <FileRef
+               location = "group:bumperRinkFloor.dae">
+            </FileRef>
+            <FileRef
+               location = "group:bumperRinkFloor.skp">
+            </FileRef>
+            <Group
+               location = "group:bumperRinkWalls"
+               name = "bumperRinkWalls">
+               <FileRef
+                  location = "group:texture0.png">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:bumperRinkWalls.dae">
+            </FileRef>
+            <FileRef
+               location = "group:bumperRinkWalls.skp">
+            </FileRef>
+            <FileRef
+               location = "group:tube.blend">
+            </FileRef>
+            <FileRef
+               location = "group:tube.dae">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch08_EXAMPLES"
+         name = "ch08_EXAMPLES">
+         <Group
+            location = "group:OpenGLES_Ch8_1"
+            name = "OpenGLES_Ch8_1">
+            <Group
+               location = "group:OpenGLES_Ch8_1"
+               name = "OpenGLES_Ch8_1">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_1-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_1AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_1AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_1ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_1ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch8_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch8_2"
+            name = "OpenGLES_Ch8_2">
+            <Group
+               location = "group:OpenGLES_Ch8_2"
+               name = "OpenGLES_Ch8_2">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_2-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_2-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_2AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_2AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_2ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_2ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch8_2.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch8_3"
+            name = "OpenGLES_Ch8_3">
+            <Group
+               location = "group:OpenGLES_Ch8_3"
+               name = "OpenGLES_Ch8_3">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_3-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_3-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_3AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_3AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_3ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_3ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch8_3.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch8_4"
+            name = "OpenGLES_Ch8_4">
+            <Group
+               location = "group:OpenGLES_Ch8_4"
+               name = "OpenGLES_Ch8_4">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_4-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_4-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_4AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_4AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_4ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch8_4ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch8_4.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Resources"
+            name = "Resources">
+            <FileRef
+               location = "group:ball.png">
+            </FileRef>
+            <FileRef
+               location = "group:boat.modelplist">
+            </FileRef>
+            <FileRef
+               location = "group:burst.png">
+            </FileRef>
+            <FileRef
+               location = "group:park.modelplist">
+            </FileRef>
+            <FileRef
+               location = "group:skybox0.png">
+            </FileRef>
+            <FileRef
+               location = "group:smoke.png">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch09_EXAMPLES"
+         name = "ch09_EXAMPLES">
+         <Group
+            location = "group:OpenGLES_Ch9_1"
+            name = "OpenGLES_Ch9_1">
+            <Group
+               location = "group:OpenGLES_Ch9_1"
+               name = "OpenGLES_Ch9_1">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch9_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch9_1-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch9_1AppDelegate.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch9_1AppDelegate.m">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch9_1ViewController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch9_1ViewController.m">
+               </FileRef>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch9_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Resources"
+            name = "Resources">
+            <FileRef
+               location = "group:starships.modelplist">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch10_EXAMPLES"
+         name = "ch10_EXAMPLES">
+         <Group
+            location = "group:OpenGLES_Ch10_1"
+            name = "OpenGLES_Ch10_1">
+            <Group
+               location = "group:OpenGLES_Ch10_1"
+               name = "OpenGLES_Ch10_1">
+               <Group
+                  location = "group:Controller"
+                  name = "Controller">
+                  <FileRef
+                     location = "group:main.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch10_1AppDelegate.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch10_1AppDelegate.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch10_1ViewController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch10_1ViewController.m">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Model"
+                  name = "Model">
+                  <FileRef
+                     location = "group:OpenGLES_Ch10_1.xcdatamodeld">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TEModelPlacement.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TEModelPlacement.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+modelAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+modelAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain.m">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:OpenGLES_Ch10_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch10_1-Prefix.pch">
+               </FileRef>
+               <Group
+                  location = "group:View"
+                  name = "View">
+                  <FileRef
+                     location = "group:TETerrain+viewAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+viewAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrainTile.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrainTile.m">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch10_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:OpenGLES_Ch10_2"
+            name = "OpenGLES_Ch10_2">
+            <Group
+               location = "group:OpenGLES_Ch10_2"
+               name = "OpenGLES_Ch10_2">
+               <Group
+                  location = "group:Controller"
+                  name = "Controller">
+                  <FileRef
+                     location = "group:main.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch10_2AppDelegate.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch10_2AppDelegate.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch10_2ViewController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch10_2ViewController.m">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Model"
+                  name = "Model">
+                  <FileRef
+                     location = "group:TEModelPlacement.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TEModelPlacement.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+modelAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+modelAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain.m">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:OpenGLES_Ch10_2-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch10_2-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch10_2.xcdatamodeld">
+               </FileRef>
+               <Group
+                  location = "group:View"
+                  name = "View">
+                  <FileRef
+                     location = "group:TETerrain+viewAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+viewAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrainTile.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrainTile.m">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch10_2.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:TerrainEditor"
+            name = "TerrainEditor">
+            <Group
+               location = "group:TerrainEditor"
+               name = "TerrainEditor">
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:Credits.rtf">
+                  </FileRef>
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainMenu.xib">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TEDocument.xib">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:GeneratedModel"
+                  name = "GeneratedModel">
+                  <FileRef
+                     location = "group:TEModelPlacement.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TEModelPlacement.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain.m">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:heightMap.tga">
+               </FileRef>
+               <FileRef
+                  location = "group:main.m">
+               </FileRef>
+               <FileRef
+                  location = "group:RadiusSelectionTool.png">
+               </FileRef>
+               <FileRef
+                  location = "group:Sahara.jpg">
+               </FileRef>
+               <Group
+                  location = "group:Shaders"
+                  name = "Shaders">
+                  <FileRef
+                     location = "group:ModelShader.fsh">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ModelShader.vsh">
+                  </FileRef>
+                  <FileRef
+                     location = "group:PickTerrainShader.fsh">
+                  </FileRef>
+                  <FileRef
+                     location = "group:PickTerrainShader.vsh">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TerrainShader.fsh">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TerrainShader.vsh">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:TEAreaTool.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEAreaTool.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEDetailTextureTool.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEDetailTextureTool.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEDocument.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEDocument.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEDocument.xcdatamodeld">
+               </FileRef>
+               <FileRef
+                  location = "group:TEEditWindowController.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEEditWindowController.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEEffect.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEEffect.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEElevationTool.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEElevationTool.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEHeightMap.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEHeightMap.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEMesh.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEMesh.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEModel.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEModel.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEModelEffect.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEModelEffect.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEModelManager.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEModelManager.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEModelPlacementTool.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEModelPlacementTool.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEPickTerrainEffect.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEPickTerrainEffect.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TerrainEditor-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:TerrainEditor-Prefix.pch">
+               </FileRef>
+               <FileRef
+                  location = "group:TETerrain+modelAdditions.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TETerrain+modelAdditions.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TETerrainEffect.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TETerrainEffect.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TETerrainTile.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TETerrainTile.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TETool.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TETool.m">
+               </FileRef>
+               <FileRef
+                  location = "group:TEView.h">
+               </FileRef>
+               <FileRef
+                  location = "group:TEView.m">
+               </FileRef>
+               <Group
+                  location = "group:Utility"
+                  name = "Utility">
+                  <FileRef
+                     location = "group:UtilityFrustum.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityFrustum.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityMath.c">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityMath.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityMatrix.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityOpenGLCamera.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityOpenGLCamera.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityTextureLoader.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityTextureLoader.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityVector.c">
+                  </FileRef>
+                  <FileRef
+                     location = "group:UtilityVector.h">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:TerrainEditor.xcodeproj">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:ch12_EXAMPLES"
+         name = "ch12_EXAMPLES">
+         <Group
+            location = "group:OpenGLES_Ch12_1"
+            name = "OpenGLES_Ch12_1">
+            <FileRef
+               location = "group:Default-Landscape@2x.png">
+            </FileRef>
+            <FileRef
+               location = "group:Default-Landscape~ipad.png">
+            </FileRef>
+            <FileRef
+               location = "group:Default-Portrait~ipad.png">
+            </FileRef>
+            <FileRef
+               location = "group:Default.png">
+            </FileRef>
+            <FileRef
+               location = "group:Default@2x.png">
+            </FileRef>
+            <Group
+               location = "group:OpenGLES_Ch12_1"
+               name = "OpenGLES_Ch12_1">
+               <Group
+                  location = "group:Controller"
+                  name = "Controller">
+                  <FileRef
+                     location = "group:main.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch12_1AppDelegate.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch12_1AppDelegate.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch12_1ViewController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:OpenGLES_Ch12_1ViewController.m">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:en.lproj"
+                  name = "en.lproj">
+                  <FileRef
+                     location = "group:InfoPlist.strings">
+                  </FileRef>
+               </Group>
+               <Group
+                  location = "group:Model"
+                  name = "Model">
+                  <FileRef
+                     location = "group:OpenGLES_Ch12_1.xcdatamodeld">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TECart.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TECart.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TEModelPlacement.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TEModelPlacement.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TEParticleEmitter.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TEParticleEmitter.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+modelAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+modelAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain.m">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:OpenGLES_Ch12_1-Info.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:OpenGLES_Ch12_1-Prefix.pch">
+               </FileRef>
+               <Group
+                  location = "group:View"
+                  name = "View">
+                  <FileRef
+                     location = "group:MainStoryboard_iPad.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MainStoryboard_iPhone.storyboard">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TECart+viewAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TECart+viewAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+viewAdditions.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrain+viewAdditions.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrainTile.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:TETerrainTile.m">
+                  </FileRef>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:OpenGLES_Ch12_1.xcodeproj">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Resources"
+            name = "Resources">
+            <FileRef
+               location = "group:BOOSTa.png">
+            </FileRef>
+            <FileRef
+               location = "group:cart007.modelplist">
+            </FileRef>
+            <FileRef
+               location = "group:cartTextures.png">
+            </FileRef>
+            <FileRef
+               location = "group:eyePOV.png">
+            </FileRef>
+            <FileRef
+               location = "group:skybox004.png">
+            </FileRef>
+            <FileRef
+               location = "group:texture0.png">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:Resources"
+         name = "Resources">
+         <FileRef
+            location = "group:beetle.png">
+         </FileRef>
+         <FileRef
+            location = "group:Default-568h@2x.png">
+         </FileRef>
+         <FileRef
+            location = "group:leaves.gif">
+         </FileRef>
+         <FileRef
+            location = "group:OpenGL_ES_for_iOS_114x114.png">
+         </FileRef>
+         <FileRef
+            location = "group:OpenGL_ES_for_iOS_57x57.png">
+         </FileRef>
+         <FileRef
+            location = "group:OpenGL_ES_for_iOS_72x72.png">
+         </FileRef>
+         <FileRef
+            location = "group:trail.binary">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Utility"
+         name = "Utility">
+         <Group
+            location = "group:Shaders"
+            name = "Shaders">
+            <FileRef
+               location = "group:UtilityArmaturePointLightShader.fsh">
+            </FileRef>
+            <FileRef
+               location = "group:UtilityArmaturePointLightShader.vsh">
+            </FileRef>
+            <FileRef
+               location = "group:UtilityBillboardParticleShader.fsh">
+            </FileRef>
+            <FileRef
+               location = "group:UtilityBillboardParticleShader.vsh">
+            </FileRef>
+            <FileRef
+               location = "group:UtilityModelShader.fsh">
+            </FileRef>
+            <FileRef
+               location = "group:UtilityModelShader.vsh">
+            </FileRef>
+            <FileRef
+               location = "group:UtilityPickTerrainShader.fsh">
+            </FileRef>
+            <FileRef
+               location = "group:UtilityPickTerrainShader.vsh">
+            </FileRef>
+            <FileRef
+               location = "group:UtilityTerrainShader.fsh">
+            </FileRef>
+            <FileRef
+               location = "group:UtilityTerrainShader.vsh">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:UtilityArmatureBaseEffect.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityArmatureBaseEffect.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboard.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboard.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardManager+viewAdditions.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardManager+viewAdditions.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardManager.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardManager.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardParticle.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardParticle.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardParticleEffect.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardParticleEffect.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardParticleManager+viewAdditions.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardParticleManager+viewAdditions.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardParticleManager.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityBillboardParticleManager.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityCamera.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityCamera.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityEffect.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityEffect.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityJoint.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityJoint.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityMesh+skinning.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityMesh+skinning.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityMesh+viewAdditions.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityMesh+viewAdditions.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityMesh.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityMesh.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModel+skinning.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModel+skinning.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModel+viewAdditions.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModel+viewAdditions.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModel.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModel.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModelEffect.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModelEffect.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModelManager+skinning.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModelManager+skinning.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModelManager.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityModelManager.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityPickTerrainEffect.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityPickTerrainEffect.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityTerrainEffect.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityTerrainEffect.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityTextureInfo+viewAdditions.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityTextureInfo+viewAdditions.m">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityTextureInfo.h">
+         </FileRef>
+         <FileRef
+            location = "group:UtilityTextureInfo.m">
+         </FileRef>
+      </Group>
+   </Group>
+</Workspace>
